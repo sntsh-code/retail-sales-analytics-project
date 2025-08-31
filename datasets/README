@@ -1,1 +1,40 @@
+📊 Retail Sales Dataset
 
+This dataset is a synthetic dataset generated for educational purposes.
+It simulates a real-world retail sales environment, including customers, products, orders, and regions, to demonstrate SQL-based data analytics and reporting.
+
+📂 Dataset Structure
+
+raw/ → Original messy files (nulls, duplicates, inconsistent dates).
+
+cleaned/ → Preprocessed data after cleaning, deduplication, and formatting.
+
+sample/ → Smaller datasets (200 rows) for quick testing and demo queries.
+
+📑 Files & Description
+
+customers.csv → Customer details (ID, name, region, contact).
+
+products.csv → Product catalog with price, category, cost.
+
+orders.csv → Order-level info (order date, customer, status).
+
+order_items.csv → Line-level order details (product, quantity, total).
+
+sales_regions.csv → Region-level mapping (North, South, East, West).
+
+🛠️ Data Cleaning Performed
+
+Removed nulls and duplicate records.
+
+Standardized date format to YYYY-MM-DD.
+
+Fixed inconsistent region/product names.
+
+Added calculated fields (total_price = unit_price × quantity).
+
+Ensured referential integrity between tables.
+
+⚠️ Disclaimer
+
+This dataset is not from a real company. It was generated purely for learning, portfolio building, and demonstrating SQL projects.
