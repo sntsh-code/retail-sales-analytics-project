@@ -1,2 +1,47 @@
-# retail-sales-analytics-project
+================================
+ # retail-sales-analytics-project
+===============================
+
+Welcome to the **Retail Sales Analytics Project **  reprository!
+
 Retail Sales Database project simulating real-world sales analytics. Designed with customers, products, orders, and regions to track sales, revenue, and product performance. Enables insights into top products, customer trends, and profit margins using SQL queries.
+
+--------------------
+### Project Overview
+--------------------
+This project simulates a real-world retail sales analytics system where data is stored in a relational database (MySQL). The main goal is to analyze customer purchasing behavior, product performance, and overall business revenue trends using SQL.
+
+--------------
+### Objectives
+--------------
+-Design a normalized Retail Sales Database Schema
+-Perform data cleaning & loading from CSV into MySQL
+-Write SQL queries to answer real business questions
+-Use window functions, joins, indexing, and subqueries for advanced analytics
+-Generate business insights & KPIs (Revenue, Profit, Customer Segments, Trends)
+-Document the entire workflow for portfolio and interview readiness
+
+---------------------
+### Expected Outcomes
+---------------------
+
+By the end of this project, you will:
+
+-Have a working Retail Sales SQL Database
+-Be able to run queries like:
+--Top 10 products by revenue
+-Monthly sales growth trend
+-Top 5 high-value customers
+-Category-wise profit margin
+
+-----------
+### License
+-----------
+
+This project is licensed under the [MIT License ](License) You are free to use, modify, and share this project with proper attribution.
+
+-----------
+## About Me
+-----------
+
+Hi there! I'm **Santosh Jivaraj GItte**, also onwn as ****, I'm a pharma graduate fresher looking for career in tech and non-tech industry.
