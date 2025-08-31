@@ -19,7 +19,6 @@ This project simulates a real-world retail sales analytics system where data is 
 -Write SQL queries to answer real business questions
 -Use window functions, joins, indexing, and subqueries for advanced analytics
 -Generate business insights & KPIs (Revenue, Profit, Customer Segments, Trends)
--Document the entire workflow for portfolio and interview readiness
 
 ---------------------
 ### Expected Outcomes
@@ -29,7 +28,7 @@ By the end of this project, you will:
 
 -Have a working Retail Sales SQL Database
 -Be able to run queries like:
---Top 10 products by revenue
+-Top 10 products by revenue
 -Monthly sales growth trend
 -Top 5 high-value customers
 -Category-wise profit margin
@@ -44,4 +43,4 @@ This project is licensed under the [MIT License ](License) You are free to use, 
 ## About Me
 -----------
 
-Hi there! I'm **Santosh Jivaraj GItte**, also onwn as ****, I'm a pharma graduate fresher looking for career in tech and non-tech industry.
+Hi there! I'm **Santosh Jivaraj GItte**, also konwn as **sntsh-code**, I'm a pharma graduate fresher looking for career in tech and non-tech industry.
