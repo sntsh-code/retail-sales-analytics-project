@@ -1,0 +1,211 @@
+customer_id,name,email,phone,region_id
+1,Alice Miller,alicemiller46@gmail.com,9642738533,4
+2,Mike Jones,mikejones64@yahoo.com,9806232455,6
+3,DAVID Jones,davidjones51@hotmail.com,8127836018,2
+4,Sara Clark,saraclark65@outlook.com,6838620767,3
+5,Sara Smith,sarasmith78@yahoo.com,7482239237,6
+6,John Brown,johnbrown44@outlook.com,7928048693,3
+7,Mike Clark,mikeclark26@gmail.com,9851197231,2
+8,Alice Williams,alicewilliams89@outlook.com,7766751894,3
+9,John Johnson,johnjohnson76@yahoo.com,9706244764,5
+10, Chris Miller,chrismiller31@outlook.com,6233729593,3
+11,  emma   Smith,emmasmith56@yahoo.com,7860778024,2
+12,  emma   Clark,emmaclark50@yahoo.com,9020409982,10
+13,linda Williams,lindawilliams36@hotmail.com,9754636681,3
+14,linda Smith,lindasmith17@yahoo.com,6686045181,10
+15,Sara taylor  ,sarataylor14@gmail.com,6205847600,9
+16, Chris  Davis,chrisdavis81@yahoo.com,7650196789,6
+17,linda Miller,lindamiller97@outlook.com,9145011083,5
+18,Alice Clark,aliceclark43@yahoo.com,6086376821,9
+19,linda Smith,lindasmith65@yahoo.com,6400660646,4
+20,  emma   Brown,emmabrown25@gmail.com,6165027241,9
+21,Jane taylor  ,janetaylor45@yahoo.com,7888490433,8
+22,Sara Clark,saraclark57@hotmail.com,9937868143,7
+23, Chris taylor  ,chris123@gmail.com,6162504710,5
+24,Sara Jones,sarajones56@hotmail.com,6137232180,6
+25, Chris  Davis,chrisdavis80@outlook.com,,8
+26,Mike Brown,mikebrown81@yahoo.com,8588660169,3
+27,linda Smith,lindasmith8@yahoo.com,9669135223,6
+28,DAVID Williams,davidwilliams75@yahoo.com,7197694859,
+29,Sara Jones,sarajones94@gmail.com,6021524556,
+30,Jane Miller,janemiller77@yahoo.com,9560178305,2
+31,  emma   Williams,emmawilliams91@outlook.com,6528143428,7
+32,Mike Smith,mikesmith48@outlook.com,9540462087,2
+33,Sara  Davis,saradavis85@hotmail.com,6423889331,7
+34,  emma    Davis,emmadavis11@outlook.com,9562322065,6
+35,linda Johnson,lindajohnson53@yahoo.com,7078933282,
+36,linda  Davis,lindadavis28@outlook.com,7738578075,3
+37,Alice  Davis,alicedavis22@outlook.com,,5
+38,DAVID Smith,davidsmith94@outlook.com,,6
+39,Alice Miller,alicemiller92@gmail.com,8758635446,1
+40, Chris Brown,chrisbrown33@hotmail.com,6330408900,8
+41,Mike Jones,mikejones34@gmail.com,9701600595,7
+42,Mike Williams,mikewilliams14@gmail.com,8608079946,10
+43,Sara   lee,saralee65@outlook.com,9744599506,9
+44,linda Brown,lindabrown25@yahoo.com,6099729920,8
+45,Alice Miller,alicemiller66@gmail.com,7234313957,6
+46,Jane Smith,janesmith5@outlook.com,9367210570,
+47,Bob Jones,bobjones14@hotmail.com,9085429783,2
+48,John Williams,johnwilliams68@yahoo.com,,8
+49,  emma   Smith,emmasmith68@hotmail.com,7109073626,3
+50,DAVID Jones,davidjones5@gmail.com,9844435235,7
+51,Alice taylor  ,alicetaylor34@outlook.com,7768759803,5
+52,linda Miller,lindamiller63@gmail.com,8329719822,2
+53,Sara Williams,sarawilliams11@outlook.com,9877758738,6
+54,Bob Williams,bobwilliams89@gmail.com,6697293140,7
+55,Sara   lee,saralee69@outlook.com,8853720233,1
+56,John Johnson,johnjohnson42@outlook.com,,
+57,Alice Williams,alicewilliams27@hotmail.com,8306691701,6
+58,Bob Brown,bobbrown85@hotmail.com,,6
+59,Alice Smith,alicesmith19@yahoo.com,,6
+60,Sara Clark,saraclark80@hotmail.com,8461591327,3
+61, Chris Johnson,chrisjohnson49@outlook.com,6013247115,6
+62,Sara  Davis,saradavis66@outlook.com,6077689312,9
+63,Mike Johnson,mikejohnson36@hotmail.com,,8
+64,DAVID Smith,davidsmith83@yahoo.com,7052381354,2
+65,Sara Williams,sarawilliams72@yahoo.com,8515671024,2
+66,DAVID   lee,davidlee34@yahoo.com,8188276592,3
+67,Mike Williams,mikewilliams53@hotmail.com,7190390873,4
+68,Sara   lee,saralee95@yahoo.com,6751350021,1
+69,DAVID Clark,davidclark46@gmail.com,9402388236,5
+70,Sara Williams,sarawilliams20@gmail.com,7164376029,4
+71,Jane  Davis,janedavis97@hotmail.com,7191961381,6
+72,Bob taylor  ,bobtaylor30@outlook.com,8920416439,9
+73,Alice Miller,alicemiller88@hotmail.com,6403093858,7
+74,John taylor  ,johntaylor42@outlook.com,7229037924,9
+75,Alice Smith,alicesmith36@hotmail.com,6283031472,9
+76,Mike Johnson,mikejohnson57@gmail.com,6043231521,7
+77,Jane taylor  ,janetaylor47@yahoo.com,,10
+78,Alice Jones,alicejones6@gmail.com,9507628085,7
+79,Bob Brown,bobbrown59@hotmail.com,8309569183,5
+80, Chris Williams,chriswilliams12@gmail.com,8434214384,7
+81, Chris taylor  ,christaylor37@gmail.com,7335881442,8
+82,Jane Clark,janeclark74@gmail.com,9491865485,4
+83,Sara Smith,sarasmith14@yahoo.com,7246486839,2
+84,Jane Clark,janeclark81@yahoo.com,9519617216,9
+85,Jane taylor  ,janetaylor62@gmail.com,8924882067,3
+86,Mike Williams,mikewilliams18@gmail.com,8021822959,9
+87,Mike Miller,mikemiller47@hotmail.com,9290896669,1
+88,John Smith,johnsmith54@gmail.com,6304656046,7
+89,linda Clark,lindaclark44@outlook.com,8591083938,
+90,Mike Johnson,mikejohn1234@outlook.com,8394586056,1
+91, Chris Clark,chrisclark65@gmail.com,9404813408,7
+92,John  Davis,johndavis83@outlook.com,6459082923,6
+93,Bob Williams,bobwilliams86@yahoo.com,8975044951,7
+94,Alice  Davis,alicedavis24@outlook.com,8837779616,2
+95,Sara Smith,sarasmith1@yahoo.com,9129462610,5
+96,Bob Smith,bobsmith62@hotmail.com,7789928382,2
+97, Chris   lee,chrislee54@gmail.com,6121117982,1
+98,linda Jones,lindajones68@outlook.com,9366890119,9
+99,Sara Clark,saraclark49@outlook.com,6283137963,1
+100,linda Johnson,lindajohnson61@hotmail.com,,1
+101,John  Davis,johndavis16@gmail.com,9998202764,2
+102,Mike  Davis,mikedavis45@hotmail.com,7274311313,10
+103,Bob Miller,bobmiller81@gmail.com,6269518104,8
+104,John Williams,johnwilliams20@gmail.com,9947275853,3
+105,DAVID Clark,davidclark20@hotmail.com,,1
+106,Mike Miller,mikemiller92@hotmail.com,8867313844,1
+107,linda   lee,lindalee89@yahoo.com,8335056962,3
+108,linda taylor  ,lindataylor44@outlook.com,6147837133,2
+109,Alice Williams,alicewilliams94@hotmail.com,8707460585,2
+110,Bob Miller,bobmiller42@outlook.com,7810437133,3
+111,linda Johnson,lindajohnson61@outlook.com,7533299530,8
+112,DAVID taylor  ,davidtaylor71@gmail.com,6459039988,2
+113,Alice Miller,alicemiller73@yahoo.com,6973081789,3
+114,Jane Brown,jane@yahoo.com,8013770944,1
+115,DAVID Williams,davidwilliams36@gmail.com,8271134843,4
+116,Jane Williams,janewilliams27@gmail.com,9569867540,3
+117,DAVID Brown,davidbrown96@yahoo.com,8071626604,
+118,John   lee,johnlee90@outlook.com,7645407815,1
+119,  emma   Brown,emmabrown22@hotmail.com,8933280190,4
+120,Bob Smith,bobsmith70@yahoo.com,6864078166,8
+121,Alice Williams,alicewilliams89@gmail.com,,2
+122,Mike Smith,mikesmith42@hotmail.com,6175752772,3
+123,Bob Brown,bobbrown67@hotmail.com,6457731771,5
+124,Sara Johnson,sarajohnson4@hotmail.com,,5
+125,Mike  Davis,mikedavis33@yahoo.com,7010212923,5
+126,linda  Davis,lindadavis32@hotmail.com,8974837136,6
+127,  emma   taylor  ,emmataylor84@gmail.com,7187770678,8
+128,Mike Jones,mikejones19@yahoo.com,6904369319,5
+129,DAVID Brown,davidbrown51@gmail.com,8681473216,7
+130,Alice Williams,alicewilliams63@hotmail.com,9358969546,
+131,Sara Jones,sarajones71@yahoo.com,7366763451,6
+132,Alice   lee,alicelee61@gmail.com,7077367653,3
+133,Sara Johnson,sarajohnson1@hotmail.com,8379731498,8
+134,Bob Brown,bobbrown80@outlook.com,6647947364,1
+135,linda   lee,lindalee74@hotmail.com,6328976436,5
+136,  emma   Jones,emmajones86@outlook.com,6202382608,9
+137,John   lee,johnlee25@gmail.com,,
+138,DAVID Clark,davidclark2@gmail.com,7736494455,9
+139,Sara taylor  ,sarataylor49@outlook.com,6432029577,3
+140,Mike Jones,mikejones73@yahoo.com,,9
+141, Chris Williams,chriswilliams74@hotmail.com,7914714136,
+142,Mike  Davis,mikedavis22@yahoo.com,,8
+143,DAVID   lee,davidlee56@hotmail.com,8010586679,7
+144,John Jones,johnjones68@outlook.com,8681166084,3
+145,  emma   Jones,emmajones96@outlook.com,7215785519,5
+146,Mike Clark,mikeclark76@gmail.com,7319604650,8
+147,DAVID taylor  ,davidtaylor96@yahoo.com,6358422983,2
+148,linda Williams,lindawilliams93@outlook.com,9439344848,1
+149,Sara Johnson,sarajohnson80@yahoo.com,7026363823,3
+150,Jane Johnson,janejohnson75@outlook.com,9796388983,1
+151,Sara  Davis,saradavis80@outlook.com,7918866214,10
+152,DAVID   lee,davidlee21@hotmail.com,7394170500,7
+153,Bob Williams,bobwilliams91@yahoo.com,6977580047,5
+154,Bob   lee,boblee93@yahoo.com,8134073742,2
+155, Chris Miller,chrismiller70@outlook.com,6385776649,5
+156,Bob   lee,boblee89@gmail.com,8144408946,5
+157,Sara Johnson,sarajohnson24@outlook.com,6147187454,6
+158,DAVID Williams,davidwilliams67@yahoo.com,6397607610,10
+159, Chris Jones,chrisjones35@gmail.com,6693958232,1
+160,Bob  Davis,bobdavis17@gmail.com,9172436136,2
+161,  emma   Brown,emmabrown29@yahoo.com,6236344326,5
+162,  emma    Davis,emmadavis99@outlook.com,7333275224,7
+163,Sara taylor  ,sarataylor60@gmail.com,7775507793,9
+164,Bob Brown,bobbrown77@hotmail.com,7133725417,7
+165,Jane Clark,janeclark64@yahoo.com,6080135125,4
+166,Mike Williams,mikewilliams4@hotmail.com,9523399103,3
+167,linda Williams,lindawilliams87@outlook.com,9152297968,2
+168,  emma   Miller,emmamiller91@hotmail.com,6203178200,8
+169,linda Miller,lindamiller97@yahoo.com,7335294953,9
+170,  emma   taylor  ,emmataylor27@outlook.com,9913417688,9
+171,  emma    Davis,emmadavis2@hotmail.com,6180447261,2
+172, Chris Williams,chriswilliams91@outlook.com,6159637301,1
+173,Jane taylor  ,janetaylor4@hotmail.com,6737481443,10
+174,Alice Miller,alicemiller40@gmail.com,9717815194,1
+175,Jane  Davis,janedavis3@yahoo.com,,4
+176,Jane Smith,janesmith61@gmail.com,,7
+177,linda Miller,lindamiller90@gmail.com,6762042108,
+178,Alice Miller,alicemiller53@yahoo.com,,7
+179,DAVID taylor  ,davidtaylor62@yahoo.com,9120278638,1
+180,Bob Johnson,bobjohnson38@gmail.com,7405211416,9
+181,Jane Jones,janejones51@hotmail.com,6933306031,9
+182,Jane Johnson,janejohnson77@hotmail.com,6639478395,7
+183,Mike Williams,mikewilliams99@outlook.com,7639200119,8
+184,  emma   Brown,emmabrown32@yahoo.com,6003392460,5
+185,Bob Brown,bobbrown72@yahoo.com,6795418490,5
+186, Chris Johnson,chrisjohnson3@gmail.com,8728505896,8
+187,Alice taylor  ,alicetaylor15@hotmail.com,,10
+188,  emma   Jones,emmajones88@yahoo.com,6307119273,7
+189,Alice Jones,alicejones15@hotmail.com,,1
+190, Chris  Davis,chrisdavis52@outlook.com,7662234271,10
+191,DAVID Johnson,davidjohnson26@gmail.com,7341435182,10
+192, Chris Jones,chrisjones31@hotmail.com,8502368703,7
+193,Alice Johnson,alicejohnson74@outlook.com,6062618771,3
+194,  emma   Brown,emmabrown37@outlook.com,9443192772,4
+195,Bob   lee,boblee28@outlook.com,6115985508,3
+196,Alice Clark,aliceclark49@gmail.com,7579539282,6
+197,Bob taylor  ,bobtaylor38@gmail.com,6222875318,5
+198,  emma    Davis,emmadavis90@hotmail.com,9237213362,10
+199,Alice Williams,alicewilliams38@yahoo.com,6140798185,2
+200,Sara Jones,sarajones54@hotmail.com,8919695630,7
+64,DAVID Smith,davidsmith83@yahoo.com,7052381354,2
+117,DAVID Brown,davidbrown96@yahoo.com,8071626604,
+185,Bob Brown,bobbrown72@yahoo.com,6795418490,5
+34,  emma    Davis,emmadavis11@outlook.com,9562322065,6
+19,linda Smith,lindasmith65@yahoo.com,6400660646,4
+14,linda Smith,lindasmith17@yahoo.com,6686045181,10
+18,Alice Clark,aliceclark43@yahoo.com,6086376821,9
+91, Chris Clark,chrisclark65@gmail.com,9404813408,7
+174,Alice Miller,alicemiller40@gmail.com,9717815194,1
+69,DAVID Clark,davidclark46@gmail.com,9402388236,5
