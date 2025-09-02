@@ -1,6 +1,7 @@
 *\
   
 -- TOTAL REVENUE GENERATED PER MONTH
+	
 SELECT 
     DATE_FORMAT(o.order_date, '%Y-%m') AS month,
     ROUND(SUM(oi.total_price),2) AS total_revenue
@@ -10,7 +11,9 @@ JOIN order_items oi
 GROUP BY DATE_FORMAT(o.order_date, '%Y-%m')
 ORDER BY month;
 
+
 -- PRODUCTS THAT CONTRIBUTE THE MOST REVENUE
+
 SELECT 
 	p.category,
 	p.product_name,
@@ -22,14 +25,18 @@ GROUP BY p.category, p.product_name
 ORDER BY total_revenue DESC
 LIMIT 5 ;
 
+
 -- AVERAGE VALUE PER CUSTOMERS
+
 SELECT 
     ROUND(SUM(oi.total_price) / COUNT(DISTINCT o.customer_id), 2) AS avg_value_per_customer
 FROM orders o
 JOIN order_items oi 
     ON o.order_id = oi.order_id;
 
+
 -- CUSTOMERS THAT GENERATED THE HIGHEST REVENUE
+
 SELECT 
 	c.customer_id, 
     c.proper_name,
@@ -40,8 +47,10 @@ LEFT JOIN order_items oi
 GROUP BY c.customer_id, c.proper_name
 ORDER BY total_revenue DESC
 LIMIT 5 ;
+
     
 -- PERCENTAGE OF TOTAL REVENUE COMES FROM THE TOP 10% OF ORDERS
+
 WITH order_revenue AS (
     SELECT 
         o.order_id,
