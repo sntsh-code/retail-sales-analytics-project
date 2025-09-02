@@ -13,6 +13,7 @@ GROUP BY p.product_id, p.product_name
 ORDER BY highest_revenue DESC
 LIMIT 1 ;
 
+
 -- PRODUCT THAT SOLD THE MOST UNITS
 
 SELECT
@@ -25,6 +26,7 @@ ON p.product_id = oi.order_id
 GROUP BY p.product_id, p.product_name, oi.quantity
 ORDER BY oi.quantity DESC
 LIMIT 1;
+
 
 -- CATEGORIES THAT DERIVES THE MOST REVENUE
 
@@ -53,6 +55,7 @@ ON c.customer_id = oi.order_id
 GROUP BY c.customer_id, c.proper_name, c.email, c.phone
 HAVING total_spent > '1000'
 ORDER BY total_spent DESC ;
+
 
 -- REGION CONTRIBUTE THE MOST SALES
 
