@@ -20,7 +20,7 @@ WITH product_sales AS (
     SELECT 
         DATE_FORMAT(o.order_date, '%Y-%m') AS month,
         p.product_name,
-        SUM(oi.total_price) AS revenue,
+        ROUND(SUM(oi.total_price),' ') AS revenue,
         ROW_NUMBER() OVER (PARTITION BY DATE_FORMAT(o.order_date, '%Y-%m') 
                            ORDER BY SUM(oi.total_price) DESC) AS rn
     FROM orders o
