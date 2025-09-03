@@ -47,7 +47,7 @@ JOIN order_items oi
     ON o.order_id = oi.order_id
 GROUP BY YEAR(o.order_date), QUARTER(o.order_date)
 ORDER BY year, quarter 
-; --  (AFTER EXEQUTION OF QUERY) NO
+; 
 
  
 -- CATERGORIES / PRODUCTS ARE DRIVING SALES PERIOD
