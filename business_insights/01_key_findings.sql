@@ -3,6 +3,7 @@
 **KEY FINDINGS**
 ================
 
+-------------------------------------------------------------------------
 A. 
 	INSIGHT : Which product generate the highest revenue ?
 	QUERY : SELECT 
@@ -20,7 +21,7 @@ A.
 	RESULT : CAMERA 
 	BUSINESS INSIGHTS : CAMERA generate the highest revenue of rs. 2225.78
 
--------------------------------------------------------------------------
+--------------------------------------------------------------------------
 		
 B. 
 	INSIGHTS : Which category derives the most revenue ?
@@ -124,6 +125,8 @@ F.
 		;
 
 	RESULT :The product which has the most sales from Jan-2023 to Dec-2023 are Charger, Tablet, Mouse, Mouse, Mouse, Keyboard, Charger, Laptop, Monitor, Charger, Tablet, N/a
+
+====================================================================================================================================================================================================================		
 
 	BUSINESS INSIGHTS : MOUSE has the most sales by months.
 
