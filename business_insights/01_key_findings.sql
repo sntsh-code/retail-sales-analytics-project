@@ -18,7 +18,7 @@ A.
 			;
 
 	RESULT : CAMERA 
-	BUSINESS INSIGHTS : CAMERA generate the highest revenue of rs.2225.78
+	BUSINESS INSIGHTS : CAMERA generate the highest revenue of rs. 2225.78
 
 -------------------------------------------------------------------------
 		
