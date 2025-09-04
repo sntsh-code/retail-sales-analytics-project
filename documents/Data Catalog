@@ -1,0 +1,97 @@
+*\
+|
+** DATA CATALOGE **
+|
+|
+This repository contains datasets used for SQL and Analytics projects.  
+Each dataset is documented below.
+
+---
+
+## 1. Customers ('retail-sales-analytics-project/datasets/raw/customers_raw.csv')
+- **Description**: Contains customer data for analysis.
+- **Columns**:
+
+  | Column Name   | Data Type  | Description                      |
+  |---------------|------------|----------------------------------|
+  | customer_id   | INT        | ID of the customer               |
+  | name          | VARCHAR    | Name of the customer             |
+  | email         | VARCHAR    | Email of the customer            |
+  | phone         | INT        | Phone number of the customer     |
+  | region_id     | INT        | Every region has the specific ID |
+  |---------------|------------|----------------------------------|
+
+
+- **Source**: Mock data generated for learning.
+- **Notes**: May contain duplicates and null values for testing.
+
+---
+
+## 2. Region  ('retail-sales-analytics-project/datasets/raw/region_raw.csv')
+- **Description**: List of regions name with ID's.
+- **Columns**:
+
+  | Column Name   | Data Type  | Description                    |
+  |---------------|------------|--------------------------------|
+  | region_id     | INT        | Unique region identifier       |
+  | region_name   | VARCHAR    | Name of the region             |
+  |---------------|------------|--------------------------------|
+
+
+- **Source**: Mock data generated for learning.
+- **Notes**: May contain duplicates and null values for testing.
+
+---
+
+## 3. Products ('retail-sales-analytics-project/datasets/raw/products_raw.csv')
+- **Description**: List of products with categories and pricing.
+- **Columns**:
+  | Column Name   | Data Type  | Description                    |
+  |---------------|------------|--------------------------------|
+  | product_id    | INT        | Unique product identifier      |
+  | product_name  | VARCHAR    | Name of the product            |
+  | category      | VARCHAR    | Product category               |
+  | price         | DECIMAL    | Unit price                     |
+  |---------------|------------|--------------------------------|
+
+
+- **Source**: Mock data generated for learning.
+- **Notes**: May contain duplicates and null values for testing.
+
+---
+
+## 4. Orders ('retail-sales-analytics-project/datasets/raw/orders_raw.csv')
+- **Description**: List of orders contains order id, customer id, order date, ship date and status.
+
+- **Columns**:
+  | Column Name   | Data Type  | Description                    |
+  |---------------|------------|--------------------------------|
+  | order_id      | INT        | Unique product identifier      |
+  | customer_id   | INT        | Unique customer identifier     |
+  | order_date    | DATE       | Date of order placed           |
+  | ship_date     | DATE       | Date of order shipped          |
+  | status        | VARCHAR    | Order status                   |
+  |---------------|------------|--------------------------------|
+
+- **Source**: Mock data generated for learning.
+- **Notes**: May contain duplicates and null values for testing.
+
+---
+
+## 5. Order Items ('retail-sales-analytics-project/datasets/raw/orders_items_raw.csv')
+- **Description**: List of orders items contains order item id, order id, product id, quantity, total price of the order item.
+
+- **Columns**:
+  | Column Name   | Data Type  | Description                    |
+  |---------------|------------|--------------------------------|
+  | order_item_id | INT        | Unique order item identifier   |
+  | order_id   ccc| INT        | Unique order identifier        |
+  | product_id    | INT        | Unique product identifier      |
+  | quantity      | INT        | Quantity of order item         |
+  | total_price   | DECIMAL    | Price of the item              |
+  |---------------|------------|--------------------------------|
+
+- **Source**: Mock data generated for learning.
+- **Notes**: May contain duplicates and null values for testing.
+
+===========================================================================================================================
