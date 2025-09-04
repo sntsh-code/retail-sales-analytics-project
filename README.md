@@ -42,6 +42,30 @@ By the end of this project, you will:
 - SOUTH region has the most customer count of 61.
 - Focus on WEST, EAST & CENTRAL regions. 
 - MOUSE has the most sales by months.
+
+-------------------
+### Business Report
+-------------------
+
+**About**
+---------
+This Business Report is created as part of a Data Analytics project using SQL and Excel. It demonstrates how raw business data can be transformed into meaningful insights for decision-making. 
+--- The report covers:
+
+1) Data Overview: Description of dataset, cleaning steps, and limitations.
+
+2) Analysis & Findings: Revenue trends, product performance, regional sales, and customer insights.
+
+3) Business Insights: Key highlights such as top revenue-generating products, high-performing categories, and regional strengths.
+
+** Recommendations : Actionable strategies to boost revenue, improve regional balance, and stabilize declining sales.
+
+** Conclusion ** : Summary of findings with future growth opportunities.
+
+** Appendices ** : SQL queries, detailed tables, and glossary of terms.
+
+--- The purpose of this report is to showcase SQL-driven data analysis and how insights can be communicated effectively through a structured business report.
+
 -----------
 ### License
 -----------
