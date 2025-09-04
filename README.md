@@ -47,8 +47,6 @@ By the end of this project, you will:
 ### Business Report
 -------------------
 
-**About**
----------
 This Business Report is created as part of a Data Analytics project using SQL and Excel. It demonstrates how raw business data can be transformed into meaningful insights for decision-making. 
 --- The report covers:
 
