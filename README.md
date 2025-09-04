@@ -14,11 +14,11 @@ This project simulates a real-world retail sales analytics system where data is 
 --------------
 ### Objectives
 --------------
--Design a normalized Retail Sales Database Schema
--Perform data cleaning & loading from CSV into MySQL
--Write SQL queries to answer real business questions
--Use window functions, joins, indexing, and subqueries for advanced analytics
--Generate business insights & KPIs (Revenue, Profit, Customer Segments, Trends)
+- Design a normalized Retail Sales Database Schema
+- Perform data cleaning & loading from CSV into MySQL
+- Write SQL queries to answer real business questions
+- Use window functions, joins, indexing, and subqueries for advanced analytics
+- Generate business insights & KPIs (Revenue, Profit, Customer Segments, Trends)
 
 ---------------------
 ### Expected Outcomes
@@ -26,13 +26,22 @@ This project simulates a real-world retail sales analytics system where data is 
 
 By the end of this project, you will:
 
--Have a working Retail Sales SQL Database
--Be able to run queries like:
--Top 10 products by revenue
--Monthly sales growth trend
--Top 5 high-value customers
--Category-wise profit margin
+- Have a working Retail Sales SQL Database
+- Be able to run queries like:
+- Top 10 products by revenue
+- Monthly sales growth trend
+- Top 5 high-value customers
+- Category-wise profit margin
 
+----------------
+### Key Findings
+----------------
+- CAMERA generate the highest revenue of rs.2225.78.
+- Category GADGETS has the most amount of revenue that is rs.12643.03.
+- Sales are decreasing quarter by quarter.
+- SOUTH region has the most customer count of 61.
+- Focus on WEST, EAST & CENTRAL regions. 
+- MOUSE has the most sales by months.
 -----------
 ### License
 -----------
