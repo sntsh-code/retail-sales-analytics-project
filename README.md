@@ -1,5 +1,5 @@
 ================================
- # Reatil Sales Analytics Project #
+ # Retail Sales Analytics Project #
 ===============================
 
 Welcome to the **Retail Sales Analytics Project **  reprository!
